@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @mattyjacks
+👋 Hi, I’m @mattyjacks
 
-# View My Website: [MattyJacks.com](https://mattyjacks.com/)
+View My Website: 
+# [MattyJacks.com](https://mattyjacks.com/)
 
-- 📫 How to reach me ...
+📫 How to reach me ...
+
 WhatsApp and Texting: +15106005735
+
 Discord: @mattyjacks
 
 
