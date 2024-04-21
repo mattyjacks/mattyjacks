@@ -1,16 +1,10 @@
 - 👋 Hi, I’m @mattyjacks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
-  D20bot.com
-  
-  
-  
-  
+# View My Website: [MattyJacks.com](https://mattyjacks.com/)
+
 - 📫 How to reach me ...
 WhatsApp and Texting: +15106005735
-
+Discord: @mattyjacks
 
 
 <!---
