@@ -4,12 +4,26 @@
 
 
 
-MattyJacks is a...
+
+
+
+
+# MattyJacks is a...
+
   Startup Holding Company
+
   Cost-Effective Outsourcing
+  
   100%* Freelance Marketplace
+  
   Free* AI Goddess Chat Botnet
-  Infinite Silly Technology Stuff
+  
+  Infinite Silly Technology Place
+
+
+
+
+
 
 
 
